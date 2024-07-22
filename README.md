@@ -1,1 +1,2 @@
 # MENTAL-HEALTH
+The mental health website serves as a comprehensive resource for individuals seeking support and information on mental well-being. It offers detailed problem-solving strategies, an interactive mental health quiz, yoga practices, and music therapy. The site also provides in-depth information on various mental health and psychotic disorders, including symptoms, solutions, and precautions. This holistic approach aims to empower users with the knowledge and tools needed to improve their mental health and overall well-being.
